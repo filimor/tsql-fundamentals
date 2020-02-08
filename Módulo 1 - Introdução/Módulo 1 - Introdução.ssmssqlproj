@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Módulo 1 - Introdução">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DBServer:sa">
+          <Created>2017-11-21T16:52:12.5206737-02:00</Created>
+          <Type>SQL</Type>
+          <Server>DBServer</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>DBExemplo</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DBServer:usrAluno">
+          <Created>2017-09-02T16:35:11.9958817-03:00</Created>
+          <Type>SQL</Type>
+          <Server>DBServer</Server>
+          <UserName>usrAluno</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="(Excluida) Seção 5 - Aula 16 - Criando um banco de dados.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>(Excluida) Seção 5 - Aula 16 - Criando um banco de dados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Questionário 2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Questionário 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 4 - Introdução aos comandos Dml - DELETE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 4 - Introdução aos comandos Dml - DELETE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 4 - Introdução aos comandos Dml - INSERT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 4 - Introdução aos comandos Dml - INSERT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 4 - Introdução aos comandos Dml - SELECT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Seção 4 - Introdução aos comandos Dml - SELECT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 4 - Introdução aos comandos Dml - UPDATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 4 - Introdução aos comandos Dml - UPDATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 5 - Aula 17 - Criando tabelas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 5 - Aula 17 - Criando tabelas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 5 - Restrição de Chaves Estrangeiras.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Seção 5 - Restrição de Chaves Estrangeiras.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 5 - Restrição de chaves primárias.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 5 - Restrição de chaves primárias.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 5 - Restrição de Unicidade.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 5 - Restrição de Unicidade.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 5 - Restrição de valor padrão.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 5 - Restrição de valor padrão.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 5 - Restrição de verificação.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 5 - Restrição de verificação.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

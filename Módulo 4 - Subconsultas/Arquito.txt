@@ -1,0 +1,3 @@
+Noções básicas sobre subconsultas
+https://technet.microsoft.com/pt-br/library/ms189575(v=sql.105).aspx
+

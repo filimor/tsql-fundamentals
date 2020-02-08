@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Downloads", "Downloads", "{7CFE24D8-585C-4B71-992A-69274B9E4D44}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Módulo 1 - Introdução", "Módulo 1 - Introdução\Módulo 1 - Introdução.ssmssqlproj", "{624C5FBC-4419-4306-AFE8-BE0BB6E59B27}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Módulo 2 - Consulta uma única tabela", "Módulo 2 - Consulta uma única tabela\Módulo 2 - Consulta uma única tabela.ssmssqlproj", "{BE545BAB-9CA9-4722-BC95-1664B218F942}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Preparação do Ambiente", "Preparação do Ambiente\Preparação do Ambiente.ssmssqlproj", "{670960DE-5076-449C-866C-42AF37D47668}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Módulo 3 - Junções", "Módulo 3 - Junções\Módulo 3 - Junções.ssmssqlproj", "{BEFE595D-6319-4AA5-8769-E9F2490821EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624C5FBC-4419-4306-AFE8-BE0BB6E59B27}.Default|Default.ActiveCfg = Default
+		{BE545BAB-9CA9-4722-BC95-1664B218F942}.Default|Default.ActiveCfg = Default
+		{670960DE-5076-449C-866C-42AF37D47668}.Default|Default.ActiveCfg = Default
+		{BEFE595D-6319-4AA5-8769-E9F2490821EB}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

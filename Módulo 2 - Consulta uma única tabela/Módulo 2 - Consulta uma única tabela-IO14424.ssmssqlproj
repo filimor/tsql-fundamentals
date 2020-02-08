@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Módulo 2 - Consulta uma única tabela">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="10.1.0.26:CTI\wolney">
+          <Created>2017-10-24T16:14:45.8100487-02:00</Created>
+          <Type>SQL</Type>
+          <Server>10.1.0.26</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DBServer:CTI\wolney">
+          <Created>2017-10-24T16:16:18.2779339-02:00</Created>
+          <Type>SQL</Type>
+          <Server>DBServer</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DBServer:usrAluno">
+          <Created>2017-09-03T13:26:45.6876914-03:00</Created>
+          <Type>SQL</Type>
+          <Server>DBServer</Server>
+          <UserName>usrAluno</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Questionário3_Questão10.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Questionário3_Questão10.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Questionário3_Questão4.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Questionário3_Questão4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 10 - Operadores e Funções.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Seção 10 - Operadores e Funções.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 10 - Predicado Like.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 10 - Predicado Like.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 10 - Tipos de Dados.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 10 - Tipos de Dados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 11 - Funções de Data e Hora.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.1.0.26:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.1.0.26</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Seção 11 - Funções de Data e Hora.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 11 - Pesquisandoi linhas com datas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Seção 11 - Pesquisandoi linhas com datas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 11 - Tipos de dados Data e Hora.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Seção 11 - Tipos de dados Data e Hora.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 8 - Cláusula FROM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 8 - Cláusula FROM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 8 - Cláusula GROUP BY.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 8 - Cláusula GROUP BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 8 - Cláusula HAVING.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 8 - Cláusula HAVING.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 8 - Cláusula ORDER  BY.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 8 - Cláusula ORDER  BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 8 - Cláusula SELECT .sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 8 - Cláusula SELECT .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 8 - Cláusula TOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 8 - Cláusula TOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 8 - Cláusula WHERE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 8 - Cláusula WHERE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 8 - Consultar dados com instrução SELECT .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Seção 8 - Consultar dados com instrução SELECT .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 9 - Curto Circuito.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 9 - Curto Circuito.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 9 - Null or not Null.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 9 - Null or not Null.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 9 - Operacao todas de uma vez.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 9 - Operacao todas de uma vez.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 9 - Operadores e Predicados.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 9 - Operadores e Predicados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 9 - Utilizando CASE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 9 - Utilizando CASE.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

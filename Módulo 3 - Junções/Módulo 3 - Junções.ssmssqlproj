@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Módulo 3 - Junções">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="dbserver:sa">
+          <Created>2018-02-13T12:21:17.6631666-02:00</Created>
+          <Type>SQL</Type>
+          <Server>dbserver</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>LojaVirtual</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DBServer:usrAluno">
+          <Created>2017-10-27T00:15:46.2115841-02:00</Created>
+          <Type>SQL</Type>
+          <Server>DBServer</Server>
+          <UserName>usrAluno</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="LojaVirtual.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>LojaVirtual.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 12a - Atualização do ambiente.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 12a - Atualização do ambiente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 12b - Introdução.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 12b - Introdução.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 13a - Cross Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbserver:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbserver</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Seção 13a - Cross Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 13b - Self Cross Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbserver:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbserver</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Seção 13b - Self Cross Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 14c  - Inner Join.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 14c  - Inner Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 14d - Composite Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 14d - Composite Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 14e - Non-Equi Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 14e - Non-Equi Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 14f - Multi-Table Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbserver:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbserver</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Seção 14f - Multi-Table Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 15g - Outer Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 15g - Outer Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 15h - Left Outer Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 15h - Left Outer Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 15i - Right Outer Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 15i - Right Outer Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 15j - Full Outer Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbserver:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbserver</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Seção 15j - Full Outer Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 16k - Tratando valores ausentes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbserver:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbserver</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Seção 16k - Tratando valores ausentes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 16l - Erros de lógica no OUTER JOIN.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 16l - Erros de lógica no OUTER JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 16m - OUTER JOIN com Multi-table join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DBServer:False:usrAluno</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DBServer</AssociatedConnSrvName>
+          <AssociatedConnUserName>usrAluno</AssociatedConnUserName>
+          <FullPath>Seção 16m - OUTER JOIN com Multi-table join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 16n - Usando COUNT com OUTER JOIN.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 16n - Usando COUNT com OUTER JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Seção 16o - Quando utilizar ON ou WHERE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Seção 16o - Quando utilizar ON ou WHERE.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
